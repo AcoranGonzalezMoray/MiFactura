@@ -3,6 +3,14 @@
 <img  src="https://github.com/AcoranGonzalezMoray/MiFactura/blob/main/img/img.png" />
 
 ## Funciones
+<li>Encontrar palabras claves de múltiples documentos pdf</li>
+<li>Calcular total numérico de múltiples documentos</li>
+
+## Formato Documentos [Facturas]
+
 ## Uso
 
-Este software hace uso de librerías  externas :https://www.apache.org/licenses/LICENSE-2.0.txt
+
+## Notas:
+<li> Este software hace uso de librerías  externas :https://www.apache.org/licenses/LICENSE-2.0.txt </li>
+<li> Compilado y ejecutado con Java JDK 17</li>
