@@ -24,4 +24,4 @@
 ## Notas:
 <li> Este software hace uso de librerías  externas :https://www.apache.org/licenses/LICENSE-2.0.txt </li>
 <li> Compilado y ejecutado con Java JDK 17</li>
-<li> Librerias usadas [] </li>
+<li> Librerias usadas [Flatlaf - PDF-BOX] </li>
