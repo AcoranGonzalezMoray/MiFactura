@@ -7,6 +7,10 @@
 <li>Calcular total numérico de múltiples documentos</li>
 
 ## Formato Documentos [Facturas]
+<div align="center">
+<img align="center" src="https://github.com/AcoranGonzalezMoray/MiFactura/blob/main/img/formato_.png" />
+</div>
+<p>En este caso la palabra clave es el remarcado en rojo en la zona izquierda debido que en la derecha se encuentra el valor que queremos sumar, veamos un ejemplo de como utilizar este software para multiples documentos con la misma palabra clave en el apartadode "Uso" </p>
 
 ## Uso
 
